@@ -16,7 +16,7 @@ This project is created with the goal of demonstrating the backtracking algorith
 ## Usage
 1. Clone the repository:
 ```bash
-git clone ...
+git clone https://github.com/CalvinChe/SudokuSolver
 cd SudokuSolver
 ```
 2. Run the Sudoku Solver:
